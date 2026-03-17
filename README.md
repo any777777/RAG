@@ -90,6 +90,7 @@ You can run the packaged app by launching `dist\MarkdownRAGChat.exe`.
 ## Notes about the Gemini API key
 
 - `.env` is already initialized with the provided key:
+- هذا الapi الي يفضل انته تحط واحد من عندك احسن
 
 ```env
 API_KEY="AIzaSyAYWTOE5H7HWq9DLbUnxBjPuD-Wcv11LQ8"
