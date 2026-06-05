@@ -1,8 +1,5 @@
 __pycache__/
-*.pyc
-.venv/
-.venv-build/
-build/
-dist/
-test_chroma/
-*.spec.bak
+*.py[cod]
+rag_app/.chroma/
+rag_app/.index_manifest.json
+rag_app/*.log
