@@ -75,7 +75,30 @@ Test retrieval plus Ollama generation:
 ```powershell
 python rag_app/smoke_test.py --with-ollama
 ```
-
+## كيف تسحبه و تشغله عندك مباشرة 
+بس اعمل copy و paste لهاي جوى الterminal 
+ملاحظة افتح الterminal من جوى الfolder تبع المشروع 
+```powershell
+git clone https://github.com/any777777/RAG.git
+cd RAG
+pip install -r requirements.txt
+ollama serve
+ollama pull qwen3:1.7b
+python rag_app/indexer.py --build
+streamlit run rag_app/app.py
+```
+بعدين رح يفتح معك هون 
+```text
+http://localhost:8501
+```
+لازم يكون مثبت عندك 
+- Python مثبت.
+- Ollama مثبت.
+- اتصال إنترنت في أول تشغيل لتحميل:
+  - نموذج Ollama `qwen3:1.7b`
+  - نموذج embeddings من Hugging Face.
+- بعد أول بناء للفهرس، التطبيق يعمل محلياً من `data/rag-chunks`.
+و غالبا انهم عندك 
 ## Notes
 
 - The app builds Chroma locally in `rag_app/.chroma/`.
