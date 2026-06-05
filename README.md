@@ -2,7 +2,7 @@
 
 This repository contains only the minimal local RAG app and the indexed Markdown chunks needed to run it.
 
-It does not include the original Docling project, raw PDFs, slides, images, extracted assets, or Chroma database files.
+
 
 ## What Is Included
 
