@@ -1,59 +1,0 @@
----
-chunk_id: "fuzzy-logic-and-neural-networks-basic-concepts-application-8122421822-8da564fd05-chunk-0157"
-source_id: "fuzzy-logic-and-neural-networks-basic-concepts-application-8122421822-8da564fd05"
-source_file: "Fuzzy Logic and Neural Networks_ Basic Concepts  Application_8122421822.pdf"
-source_type: "pdf"
-topics:
-  - "Machine Learning"
-chunk_index: 157
-confidence: "first-pass"
-extraction_method: "structured-local"
----
-
-&
-@! D
-
-
-		
-
-	
-,
-
-
-:
-BBE	,BBRBB E	:BBRBBE	BB
-,:
-8! % 
-, 
-:
-!%
-
-	
-7
-F!F
-
-
-	
-
-!
-0
-
-	?KU:
-1,-44
-
-
-
-$ 
- 
-,    
-:
-$ BBE	:BBEBB E	,BBR
-$ 	:A, 	:AE	:
-$ 	,A, 	,AE	,
-
-## Page 196
-
-	
-
-	
-

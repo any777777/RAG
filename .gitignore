@@ -1,5 +1,8 @@
-__pycache__/
+﻿__pycache__/
 *.py[cod]
-rag_app/.chroma/
-rag_app/.index_manifest.json
-rag_app/*.log
+Output/
+*/Output/
+.env
+.venv/
+venv/
+*.log
